@@ -21,7 +21,8 @@
 				"ms-dotnettools.csharp",
 				"hashicorp.terraform",
 				"esbenp.prettier-vscode",
-				"tfsec.tfsec"
+				"tfsec.tfsec",
+                "ms-azuretools.vscode-docker"
 				]
 			}
 		},
