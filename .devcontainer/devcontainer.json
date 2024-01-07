@@ -51,7 +51,15 @@
         "terraform": "latest",
         "git-lfs": "latest",
 		"github-cli": "latest",
-		"azure-cli": "latest"
+		"azure-cli": "latest",
+        "ghcr.io/devcontainers/features/docker-in-docker:2": {
+			"moby": true,
+			"azureDnsAutoDetection": true,
+			"installDockerBuildx": true,
+			"version": "latest",
+			"dockerDashComposeVersion": "v2"
+		}
+
 	}
     
 }
