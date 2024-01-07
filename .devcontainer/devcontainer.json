@@ -1,0 +1,9 @@
+// .devcontainer/devcontainer.json
+{
+    "name": "K3d Cluster",
+    "dockerFile": "Dockerfile",
+    "extensions": ["ms-azuretools.vscode-docker"],
+    "settings": {},
+    "postCreateCommand": "bash .devcontainer/setup.sh"
+  }
+  
