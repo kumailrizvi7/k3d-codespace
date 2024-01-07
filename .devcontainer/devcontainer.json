@@ -39,9 +39,6 @@
 			"helm": "latest",
 			"minikube": "latest"
 		},
-		"ghcr.io/devcontainers/features/powershell:1": {
-			"version": "latest"
-		},
 		"ghcr.io/devcontainers-contrib/features/kubectx-kubens:1": {
 			"version": "latest"
 		},
