@@ -50,6 +50,13 @@
 			"installDockerBuildx": true,
 			"version": "latest",
 			"dockerDashComposeVersion": "v2"
+		},
+		"ghcr.io/devcontainers-contrib/features/cert-manager:1": {
+			"version": "latest"
+		},
+		"ghcr.io/rio/features/k9s:1": {},
+		"ghcr.io/itsmechlark/features/trivy:1": {
+			"version": "latest"
 		}
 
 	}
